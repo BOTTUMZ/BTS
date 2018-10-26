@@ -1,8 +1,4 @@
 # BTS
-apt up date
-apt upgrade
-apt install git
-apt install python3-pip
 Ketik -> apt update
 Ketik -> apt upgrade
 Ketik -> apt install git
