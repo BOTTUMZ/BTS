@@ -18,6 +18,9 @@ Cara Install Self Bot :
 - Ketik -> `pip3 install humanfriendly`
 - Ketik -> `pip3 install googletrans`
 - Ketik -> `git clone https://github.com/BOTTUMZ/BTS.git
+- Ketik -> `cd BTS`
 - Ketik -> 'unzip BTS.zip'
+- Ketik -> `'READ.md'
+- Ketik -> `'y'
 - Ketik -> `cd BTS`
 - Ketik -> `python3 BTS.py`
